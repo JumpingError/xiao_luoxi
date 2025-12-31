@@ -1,0 +1,5 @@
+{
+  "name": "3D Floating Thoughts",
+  "description": "A 3D visualization of floating text labels with depth perspective and dynamic transparency.",
+  "requestFramePermissions": []
+}
